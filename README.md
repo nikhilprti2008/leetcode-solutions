@@ -22,4 +22,19 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1423-maximum-points-you-can-obtain-from-cards) |
+
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0225-implement-stack-using-queues) |
+
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0225-implement-stack-using-queues) |
+
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
