@@ -37,4 +37,14 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0225-implement-stack-using-queues) |
+
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1768-merge-strings-alternately) |
+
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
