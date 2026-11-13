@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0225-implement-stack-using-queues) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1047-remove-all-adjacent-duplicates-in-string) |
 
 ## Design
 |  |
@@ -47,4 +48,5 @@
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1768-merge-strings-alternately) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
