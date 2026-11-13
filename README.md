@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1423-maximum-points-you-can-obtain-from-cards) |
+| [0054-spiral-matrix](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0054-spiral-matrix) |
 
 ## Sliding Window
 |  |
@@ -49,4 +50,14 @@
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1768-merge-strings-alternately) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/1047-remove-all-adjacent-duplicates-in-string) |
+
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0054-spiral-matrix) |
+
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
