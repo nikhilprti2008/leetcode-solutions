@@ -60,4 +60,19 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0054-spiral-matrix) |
+
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0110-balanced-binary-tree) |
+
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0110-balanced-binary-tree) |
+
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
