@@ -65,14 +65,22 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0226-invert-binary-tree) |
 
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0226-invert-binary-tree) |
 
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0226-invert-binary-tree) |
+
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nikhilprti2008/leetcode-solutions/tree/main/Solutions/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
